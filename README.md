@@ -20,7 +20,7 @@
 
 因為colab已經幫我們下載好這些環境了，所以看到很多都顯示'already satisfied'
 
-![image](
+![image](https://github.com/Han931026/Final-report/blob/main/2.png)
 
 接著檢查一下notebook初始化狀況
 
