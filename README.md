@@ -94,7 +94,7 @@ torch.hub.download_url_to_file('https://ultralytics.com/assets/coco2017val.zip',
 !python detect.py --weight best.pt
 ```
 
-![image](
+![image](https://github.com/Han931026/Final-report/blob/main/7.png)
 
 結果保存在runs/detect/exp3裡，讓我們來看看效果：
 
