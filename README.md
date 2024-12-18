@@ -82,12 +82,13 @@ torch.hub.download_url_to_file('https://ultralytics.com/assets/coco2017val.zip',
 
 訓練結果保存在這裡:
 
-![image](
+![image](https://github.com/Han931026/Final-report/blob/main/%E5%9C%963.png)
 
 # 最後用自己訓練的pt檔去推理一次
 
 先把best.pt檔放到yolov5主資料夾下，不然會報錯找不到該文件
 
+![image](
 
 再執行detect文件，指定weight為剛剛訓練出的best.pt
 
