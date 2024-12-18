@@ -69,6 +69,7 @@ torch.hub.download_url_to_file('https://ultralytics.com/assets/coco2017val.zip',
 !python val.py --data coco.yaml
 ```
 
+![image](
 
 #  訓練
 
