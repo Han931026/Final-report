@@ -29,6 +29,7 @@ import torch
 import utils
 display=utils.notebook_init()
 ```
+![image](https://github.com/Han931026/Final-report/blob/main/3.png)
 
 # 推理
 
@@ -40,6 +41,7 @@ display=utils.notebook_init()
 
 其實這裡可以改的參數很多，具體都在detect.py裡面有說明
 
+![image](
 
 可以看到結果已經儲存到runs/detect/exp目錄下
 
