@@ -98,5 +98,6 @@ torch.hub.download_url_to_file('https://ultralytics.com/assets/coco2017val.zip',
 
 結果保存在runs/detect/exp3裡，讓我們來看看效果：
 
+![image](
 
 因為只訓練5回合所以推理效果當然不好，想提高精度的話可以epoch設定大一點
