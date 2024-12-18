@@ -41,7 +41,7 @@ display=utils.notebook_init()
 
 其實這裡可以改的參數很多，具體都在detect.py裡面有說明
 
-![image](
+![image](https://github.com/Han931026/Final-report/blob/main/4.png)
 
 可以看到結果已經儲存到runs/detect/exp目錄下
 
@@ -52,6 +52,7 @@ display=utils.notebook_init()
 display.Image(filename='runs/detect/exp/zidane.jpg', width=600)
 ```
 
+![image](
 
 # 驗證
 
