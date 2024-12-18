@@ -52,7 +52,7 @@ display=utils.notebook_init()
 display.Image(filename='runs/detect/exp/zidane.jpg', width=600)
 ```
 
-![image](
+![image](https://github.com/Han931026/Final-report/blob/main/%E5%9C%961.png)
 
 # 驗證
 
