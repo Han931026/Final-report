@@ -78,7 +78,7 @@ torch.hub.download_url_to_file('https://ultralytics.com/assets/coco2017val.zip',
 ```
 !python train.py --batch 64 --epochs 5 --data coco128.yaml --optimizer Adam
 ```
-
+![image](https://github.com/Han931026/Final-report/blob/main/6.png)
 
 訓練結果保存在這裡:
 
@@ -94,6 +94,7 @@ torch.hub.download_url_to_file('https://ultralytics.com/assets/coco2017val.zip',
 !python detect.py --weight best.pt
 ```
 
+![image](
 
 結果保存在runs/detect/exp3裡，讓我們來看看效果：
 
